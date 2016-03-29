@@ -1,6 +1,9 @@
 # selenium_gmail
 Testing Selenium on Gmail. 
 
-- Requirements Ruby & Selenium-Cucumber
+### Requirements
+- Make sure you have a version of Ruby `$ ruby -v`
+- For mac: Install `$ gem install selenium-cucumber` and Firefox Browser
 
-- To run `$ cucumber BROWSER=ff`
+### Run
+- Run `$ cucumber BROWSER=ff`
